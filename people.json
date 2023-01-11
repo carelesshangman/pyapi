@@ -1,0 +1,28 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Mike",
+      "age": 25,
+      "education": "dumbass"
+    },
+    {
+      "id": 2,
+      "name": "Jason",
+      "age": 28,
+      "education": "cunt"
+    },
+    {
+      "id": 3,
+      "name": "Timmy",
+      "age": 44,
+      "education": "arse"
+    },
+    {
+      "id": 4,
+      "name": "Yan",
+      "age": 66,
+      "education": "homeless"
+    }
+  ]
+}
